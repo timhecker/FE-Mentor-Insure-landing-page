@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.pcss"],"names":[],"mappings":"AAAA;EACE,oBAAa;EAAb,oBAAa;EAAb,aAAa;EACb,oBAAiB;KAAjB;AAKF;AAHE;IACE,UAAU;EACZ","file":"style.94078d2f.css","sourceRoot":"..","sourcesContent":[".test {\n  display: flex;\n  object-fit: cover;\n\n  & p {\n    color: red;\n  }\n}\n"]}
